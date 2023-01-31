@@ -1,6 +1,7 @@
 # Data-mining
 # Sentiment Analysis
 Sentiment_analysis_1 對評論使用 word2vec、tf-idf 得到評論向量後，輸入隨機森林以預測對餐廳的喜好(0、1)
+
 Sentiment_analysis_2 對評論使用 CNN、LSTM 得到評論向量後，預測對餐廳的喜好(0、1)
 
 # Time Series
