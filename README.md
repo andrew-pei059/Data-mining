@@ -11,6 +11,6 @@ Sentiment_analysis_1 對評論使用 word2vec、tf-idf 得到評論向量後，�
 
 Sentiment_analysis_2 對評論使用 CNN、LSTM 得到評論向量後，預測對餐廳的喜好(0、1)
 
-# Nbr_nodule
-論文主要模型之一。
+# Nbr_module
+論文主要模型之一。論文模型為 Nbr_module + GAN。
 使用注意力機制與共注意力機制優化使用者向量、商品向量，最終生成單一使用者對單一遊戲的喜好機率。
